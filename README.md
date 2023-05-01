@@ -7,6 +7,7 @@ Learn more about that from [BitDust Wiki](https://bitdust.io/wiki/automats.html)
 
 This repo stores Microsoft Visio vector files with transition graphs for all BitDust finite state machines.
 
-Also we store copies in PNG and PDF format for each .vsd file here.
+Also, we store copies in PNG and PDF format for each .vsd file here.
 
-Please contact us if you have any qustions about how to use State Machines in your development. You can also learn how to use [visio2python](https://github.com/vesellov/visio2python) tool to "paint & run" your program in a few steps.
+Please contact us if you have any questions about how to use State Machines in your development. You can also learn how to use the [visio2python](https://github.com/vesellov/visio2python) tool to "paint & run" your program in a few steps.
+ 
